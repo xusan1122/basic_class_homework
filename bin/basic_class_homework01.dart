@@ -1,5 +1,7 @@
 /*
 Create a "Person" class
 */
-
-void main() {}
+  class Person{}
+void main() {
+  print(Person);
+}
