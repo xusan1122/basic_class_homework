@@ -4,8 +4,8 @@
 Create a "Person" class that has a name("name") and a age("age")
 */
 class Person {
-  String name = 'Husan';
-  int age = 23;
+  String name = 'Ali';
+  int age = 25;
   // Person(String name, String age) {
   //   this.name = name;
   //   this.age = age;
