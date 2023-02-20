@@ -7,7 +7,7 @@ create an object named "person" whose name is "Ali"
 */
 class Person {
   String name = 'Ali';
-  Person(String name)
+  Person(String name){
   }
 }
 
